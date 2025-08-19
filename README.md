@@ -37,3 +37,13 @@ It combines **modern generative AI for 3D vision** with **motion and grasp plann
    - Simulated gripper executes the grasp.
 
 ---
+## 🛠️ Requirements
+
+    - Python 3.9+
+    - MuJoCo
+    - OMPL
+    - Shap-E
+    - Trimesh + Open3D
+    - Segment Anything (SAM)
+    - GraspNet API
+
